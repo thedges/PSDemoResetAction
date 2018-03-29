@@ -18,4 +18,5 @@ To use this component, do the following:
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
+
 ![](https://raw.githubusercontent.com/thedges/PSDemoResetAction/master/Global-Action-Demo-Reset.gif "Demo Showcase")
