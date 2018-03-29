@@ -1,7 +1,7 @@
 # PSDemoResetAction
 Template Lightning Component Quick Action to add custom Apex logic for resetting a demo. This component installs the following:
-* PSDemoResetAction Lightning Component - a Lightning Component that is exposed as a global quick action.
-* Reset Demo Global Quick Action - a global action to add to your Global Action publisher layout
+* <b>PSDemoResetAction Lightning Component</b> - a Lightning Component that is exposed as a global quick action.
+* <b>Reset Demo Global Quick Action</b> - a global action to add to your Global Action publisher layout
 
 To use this component, do the following:
 1. Install the component by clicking the "Deploy to Salesforce" button below.
