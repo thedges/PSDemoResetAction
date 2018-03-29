@@ -1,0 +1,10 @@
+<aura:component controller="PSDemoResetActionController" implements="force:lightningQuickActionWithoutHeader" access="global">
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+  <aura:attribute name="msgList" type="List" />
+   
+  <aura:iteration items="{!v.msgList}" var="msg">
+      <h2>{!msg}</h2>
+  </aura:iteration>
+
+
+</aura:component>
