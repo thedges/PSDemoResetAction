@@ -17,3 +17,5 @@ To use this component, do the following:
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+
+![](https://raw.githubusercontent.com/thedges/PSDemoResetAction/master/Global-Action-Demo-Reset.gif "Demo Showcase")
