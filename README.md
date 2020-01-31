@@ -10,7 +10,7 @@ To use this component, do the following:
 2. Go to Setup > User Interface > Global Actions > Publisher Layouts.
    * Edit the "Global Layout" publisher layout
    * Select the "Mobile & Lightning Actions" option in the top window
-   * Drag the "Reset Demo" action to the "Salesforce Mobile and Lightning Experience Actions" section in the Global Publicher layout
+   * Drag the "Reset Demo" action to the "Salesforce Mobile and Lightning Experience Actions" section in the Global Publisher layout
    * Save the layout
 3. Edit the PSDemoResetActionController Apex class and add your demo reset logic to the resetDemo() method.
 4. You can then access the Global Action by clicking the ![](https://github.com/thedges/PSDemoResetAction/blob/master/GlobalActionIcon.png "Global Action Icon") icon at top of any window in Lightning Experience.
